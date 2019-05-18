@@ -1,0 +1,2 @@
+Guinin çalýþmasý için HomeScreen run edilmelir.
+Compiler kaynaklý hata oluþmasý ihtimaline karþý kodu laptobunda çalýþýr vaziyette gösterebilirim, sorunsuz çalýþmaktadýr. 
